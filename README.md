@@ -1,6 +1,6 @@
 # IP Camera Bridge
 
-A MJPEG video streaming and virtual microphone driver for Windows which can make your Windows applications using IP Camera as WebCam with audio input.
+A MJPEG video streaming and virtual microphoneu driver for Windows which can make your Windows applications using IP Camera as WebCam with audio input.
 ![IP Camera Bridge](/Snapshots/main.jpg)
 
 **IP Camera Bridge requires Win7 (32 bit & 64 bit) and above!**
